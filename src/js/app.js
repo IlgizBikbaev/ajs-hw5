@@ -1,0 +1,12 @@
+import { Bowman } from './bowman'; 
+console.log(Bowman);
+import { Daermon } from './daermon';
+console.log(Daermon);
+import { Magican } from './magican';
+console.log(Magican);
+import { Swordsman } from './swordsman';
+console.log(Swordsman);
+import { Undead } from './undead';
+console.log(Undead);
+import { Zombie } from './zombie';
+console.log(Zombie);
